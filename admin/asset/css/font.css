@@ -1,0 +1,19 @@
+/*//////////////////////////////////////////////////////////////////
+[ FONT ] */
+
+
+  
+@font-face {
+    font-family: Poppins-Light;
+    /* src: url('asset/fonts/Poppins/Poppins-Medium.ttf');  */
+    src: url('../fonts/Poppins/Poppins-Light.ttf'); 
+  }
+  
+
+
+  *{
+
+    font-family: Poppins-Light;
+    /* line-height: 1.7857; */
+    /* color:black; */
+  }
